@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f98a9b724d2ca7a49339b0ddd7349ac7ebd871ca1b8fec964d7951237e6ad27d;C:/Users/lenovo/blood-donation-platform-angular-template-fixed/src/app/features/center/center-dashboard.component.ts"],
+  "sourcesContent": [".stock{display:grid;grid-template-columns:55px 1fr auto;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--border)}.type{font-weight:800;color:var(--primary)}.request{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--border)}.request p{margin:4px 0 0;color:var(--muted);font-size:13px}"],
+  "mappings": ";AAAA,CAAC;AAAM,WAAQ;AAAK,yBAAsB,KAAK,IAAI;AAAK,eAAY;AAAO,OAAI;AAAK,WAAQ,KAAK;AAAE,iBAAc,IAAI,MAAM,IAAI;AAAS;AAAC,CAAC;AAAK,eAAY;AAAI,SAAM,IAAI;AAAU;AAAC,CAAC;AAAQ,WAAQ;AAAK,mBAAgB;AAAc,OAAI;AAAK,WAAQ,KAAK;AAAE,iBAAc,IAAI,MAAM,IAAI;AAAS;AAAC,CAAjH,QAA0H;AAAE,UAAO,IAAI,EAAE;AAAE,SAAM,IAAI;AAAS,aAAU;AAAI;",
+  "names": []
+}

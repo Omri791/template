@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/donations/donation.service.ts"],
+  "sourcesContent": ["import { Injectable } from '@angular/core';\nimport { Observable, of } from 'rxjs';\nimport { Donation } from './donation.model';\n\n@Injectable({providedIn:'root'})\nexport class DonationService {\n  private donations:Donation[]=[\n    {id:1,donorName:'Amine Ben Ali',bloodType:'O+',centerName:'Centre Tunis',date:'2026-09-27',status:'COMPLETED',quantity:450},\n    {id:2,donorName:'Sara Trabelsi',bloodType:'A+',centerName:'Centre Nabeul',date:'2026-09-29',status:'ACCEPTED',quantity:450},\n    {id:3,donorName:'Yassine Gharbi',bloodType:'O-',centerName:'Centre Sousse',date:'2026-10-03',status:'PENDING',quantity:450}\n  ];\n  getAll():Observable<Donation[]>{return of(this.donations)}\n  getById(id:number):Observable<Donation|undefined>{return of(this.donations.find(d=>d.id===id))}\n}\n"],
+  "mappings": ";;;;;;;;AAKM,IAAO,mBAAP,MAAO,iBAAe;EAD5B,cAAA;AAEU,SAAA,YAAqB;MAC3B,EAAC,IAAG,GAAE,WAAU,iBAAgB,WAAU,MAAK,YAAW,gBAAe,MAAK,cAAa,QAAO,aAAY,UAAS,IAAG;MAC1H,EAAC,IAAG,GAAE,WAAU,iBAAgB,WAAU,MAAK,YAAW,iBAAgB,MAAK,cAAa,QAAO,YAAW,UAAS,IAAG;MAC1H,EAAC,IAAG,GAAE,WAAU,kBAAiB,WAAU,MAAK,YAAW,iBAAgB,MAAK,cAAa,QAAO,WAAU,UAAS,IAAG;;;EAE5H,SAAM;AAA0B,WAAO,GAAG,KAAK,SAAS;EAAC;EACzD,QAAQ,IAAS;AAAiC,WAAO,GAAG,KAAK,UAAU,KAAK,OAAG,EAAE,OAAK,EAAE,CAAC;EAAC;;;mCAPnF,kBAAe;AAAA;oFAAf,kBAAe,SAAf,iBAAe,WAAA,YADJ,OAAM,CAAA;AACxB,IAAO,kBAAP;;sEAAO,iBAAe,CAAA;UAD3B;WAAW,EAAC,YAAW,OAAM,CAAC;;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/articles/article-list/article-list.component.css"],
+  "sourcesContent": [".article{display:flex;flex-direction:column;gap:10px}.cover{height:145px;background:linear-gradient(135deg,#fff0f0,#ffe1e1);border-radius:12px;display:grid;place-items:center;font-size:55px}.article h3{margin:4px 0}.article p{color:var(--muted);font-size:13px;margin:0}.article small{color:#8a949d}.article a{color:var(--primary);font-weight:700;font-size:13px;margin-top:auto}\n"],
+  "mappings": ";AAAA,CAAC;AAAQ,WAAQ;AAAK,kBAAe;AAAO,OAAI;AAAI;AAAC,CAAC;AAAM,UAAO;AAAM;AAAA,IAAW;AAAA,MAAgB,MAAhB;AAAA,MAAuB,OAAvB;AAAA,MAA+B;AAAS,iBAAc;AAAK,WAAQ;AAAK,eAAY;AAAO,aAAU;AAAI;AAAC,CAA7L,QAAsM;AAAG,UAAO,IAAI;AAAC;AAAC,CAAtN,QAA+N;AAAE,SAAM,IAAI;AAAS,aAAU;AAAK,UAAO;AAAC;AAAC,CAA5Q,QAAqR;AAAM,SAAM;AAAO;AAAC,CAAzS,QAAkT;AAAE,SAAM,IAAI;AAAW,eAAY;AAAI,aAAU;AAAK,cAAW;AAAI;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;6745b03c628346a739ae685c70abb193f842e8e34e51fb9cf485daf8e569e199;C:/Users/lenovo/blood-donation-platform-angular-template-fixed/src/app/core/layout/top-bar/top-bar.component.ts"],
+  "sourcesContent": ["\n    .topbar { background:#171b20; color:#dfe4e8; font-size:12px; }\n    .topbar-inner { width:min(1180px,calc(100% - 40px)); margin:auto; min-height:34px; display:flex; align-items:center; gap:22px; }\n    .social { margin-left:auto; }\n    @media(max-width:650px){.topbar-inner{width:calc(100% - 24px);gap:10px}.social{display:none}}\n  "],
+  "mappings": ";AACI,CAAC;AAAS,cAAW;AAAS,SAAM;AAAS,aAAU;AAAM;AAC7D,CAAC;AAAe,SAAM,IAAI,MAAM,EAAC,KAAK,KAAK,EAAE;AAAQ,UAAO;AAAM,cAAW;AAAM,WAAQ;AAAM,eAAY;AAAQ,OAAI;AAAM;AAC/H,CAAC;AAAS,eAAY;AAAM;AAC5B,QAAM,WAAW;AAAO,GAFvB;AAEqC,WAAM,KAAK,KAAK,EAAE;AAAM,SAAI;AAAI;AAAC,GADtE;AAC8E,aAAQ;AAAI;AAAC;",
+  "names": []
+}

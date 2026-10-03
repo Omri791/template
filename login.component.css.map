@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/auth/login/login.component.css"],
+  "sourcesContent": [".auth-page{min-height:650px;display:grid;place-items:center;padding:50px 20px;background:#fff5f5}.auth-card{width:min(440px,100%)}.auth-logo{width:55px;height:55px;border-radius:16px;background:var(--primary);color:white;display:grid;place-items:center;font-size:28px}.auth-card h1{margin:18px 0 5px}.auth-card>p{color:var(--muted)}.auth-card form{display:grid;gap:16px;margin-top:24px}.full{width:100%;justify-content:center}.error{background:#fff0f0;color:var(--danger);padding:10px;border-radius:9px}.bottom{text-align:center;font-size:13px}.bottom a{color:var(--primary);font-weight:700}\n"],
+  "mappings": ";AAAA,CAAC;AAAU,cAAW;AAAM,WAAQ;AAAK,eAAY;AAAO,WAAQ,KAAK;AAAK,cAAW;AAAO;AAAC,CAAC;AAAU,SAAM,IAAI,KAAK,EAAC;AAAK;AAAC,CAAC;AAAU,SAAM;AAAK,UAAO;AAAK,iBAAc;AAAK,cAAW,IAAI;AAAW,SAAM;AAAM,WAAQ;AAAK,eAAY;AAAO,aAAU;AAAI;AAAC,CAA1K,UAAqL;AAAG,UAAO,KAAK,EAAE;AAAG;AAAC,CAA1M,UAAoN,EAAC;AAAE,SAAM,IAAI;AAAQ;AAAC,CAA1O,UAAqP;AAAK,WAAQ;AAAK,OAAI;AAAK,cAAW;AAAI;AAAC,CAAC;AAAK,SAAM;AAAK,mBAAgB;AAAM;AAAC,CAAC;AAAM,cAAW;AAAQ,SAAM,IAAI;AAAU,WAAQ;AAAK,iBAAc;AAAG;AAAC,CAAC;AAAO,cAAW;AAAO,aAAU;AAAI;AAAC,CAAxC,OAAgD;AAAE,SAAM,IAAI;AAAW,eAAY;AAAG;",
+  "names": []
+}

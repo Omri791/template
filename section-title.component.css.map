@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;8bfa539ae49f28e712dc9eebaf1151c17751685b47a2fdedc03abcf4385992c6;C:/Users/lenovo/blood-donation-platform-angular-template-fixed/src/app/shared/components/section-title/section-title.component.ts"],
+  "sourcesContent": [".title{text-align:center;margin-bottom:28px}.title span{color:var(--primary);font-size:12px;text-transform:uppercase;font-weight:800;letter-spacing:1.5px}.title h2{font-size:30px;margin:7px 0}.title p{color:var(--muted);margin:0}"],
+  "mappings": ";AAAA,CAAC;AAAM,cAAW;AAAO,iBAAc;AAAI;AAAC,CAA3C,MAAkD;AAAK,SAAM,IAAI;AAAW,aAAU;AAAK,kBAAe;AAAU,eAAY;AAAI,kBAAe;AAAK;AAAC,CAAzJ,MAAgK;AAAG,aAAU;AAAK,UAAO,IAAI;AAAC;AAAC,CAA/L,MAAsM;AAAE,SAAM,IAAI;AAAS,UAAO;AAAC;",
+  "names": []
+}

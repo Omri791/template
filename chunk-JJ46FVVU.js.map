@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/components/blood-type-badge/blood-type-badge.component.ts"],
+  "sourcesContent": ["import { Component, Input } from '@angular/core';\n\n@Component({\n  selector: 'app-blood-type-badge',\n  standalone: true,\n  template: `<span class=\"blood\">{{type}}</span>`,\n  styles: [`.blood{width:48px;height:48px;border-radius:50%;display:inline-grid;place-items:center;background:#fff0f0;border:2px solid #e7a2a2;color:var(--primary);font-weight:800;font-size:13px}`]\n})\nexport class BloodTypeBadgeComponent { @Input() type = 'O+'; }\n"],
+  "mappings": ";;;;;;;;;;;;;;AAQM,IAAO,2BAAP,MAAO,yBAAuB;EANpC,cAAA;AAMgD,SAAA,OAAO;;;;mCAA1C,0BAAuB;AAAA;yFAAvB,0BAAuB,WAAA,CAAA,CAAA,sBAAA,CAAA,GAAA,QAAA,EAAA,MAAA,OAAA,GAAA,OAAA,GAAA,MAAA,GAAA,QAAA,CAAA,CAAA,GAAA,OAAA,CAAA,GAAA,UAAA,SAAA,iCAAA,IAAA,KAAA;AAAA,MAAA,KAAA,GAAA;AAHvB,IAAA,4BAAA,GAAA,QAAA,CAAA;AAAoB,IAAA,iBAAA,CAAA;AAAQ,IAAA,0BAAA;;;AAAR,IAAA,oBAAA;AAAA,IAAA,4BAAA,IAAA,IAAA;;;AAG3B,IAAO,0BAAP;;sEAAO,yBAAuB,CAAA;UANnC;uBACW,wBAAsB,YACpB,MAAI,UACN,uCAAqC,QAAA,CAAA,0hBAAA,EAAA,CAAA;;UAGT;;;;6EAA3B,yBAAuB,EAAA,WAAA,2BAAA,UAAA,4EAAA,YAAA,EAAA,CAAA;AAAA,GAAA;",
+  "names": []
+}

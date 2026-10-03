@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;5740868ebfeccf4790284f7df0e9c039e50c43c98539961ffca18ca64b9baf6f;C:/Users/lenovo/blood-donation-platform-angular-template-fixed/src/app/shared/components/blood-type-badge/blood-type-badge.component.ts"],
+  "sourcesContent": [".blood{width:48px;height:48px;border-radius:50%;display:inline-grid;place-items:center;background:#fff0f0;border:2px solid #e7a2a2;color:var(--primary);font-weight:800;font-size:13px}"],
+  "mappings": ";AAAA,CAAC;AAAM,SAAM;AAAK,UAAO;AAAK,iBAAc;AAAI,WAAQ;AAAY,eAAY;AAAO,cAAW;AAAQ,UAAO,IAAI,MAAM;AAAQ,SAAM,IAAI;AAAW,eAAY;AAAI,aAAU;AAAI;",
+  "names": []
+}

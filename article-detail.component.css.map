@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/articles/article-detail/article-detail.component.css"],
+  "sourcesContent": [".detail{max-width:850px;margin:auto}.detail h1{font-size:40px;margin:20px 0 5px}.detail>a{color:var(--primary);font-weight:700}.detail>.badge{margin-top:25px}.detail small{color:var(--muted)}.lead{font-size:18px;color:var(--muted);margin-top:30px}.content{font-size:16px;line-height:1.9}\n"],
+  "mappings": ";AAAA,CAAC;AAAO,aAAU;AAAM,UAAO;AAAI;AAAC,CAAnC,OAA2C;AAAG,aAAU;AAAK,UAAO,KAAK,EAAE;AAAG;AAAC,CAA/E,OAAsF,EAAC;AAAE,SAAM,IAAI;AAAW,eAAY;AAAG;AAAC,CAA9H,OAAqI,EAAC,CAAC;AAAM,cAAW;AAAI;AAAC,CAA7J,OAAqK;AAAM,SAAM,IAAI;AAAQ;AAAC,CAAC;AAAK,aAAU;AAAK,SAAM,IAAI;AAAS,cAAW;AAAI;AAAC,CAAC;AAAQ,aAAU;AAAK,eAAY;AAAG;",
+  "names": []
+}
